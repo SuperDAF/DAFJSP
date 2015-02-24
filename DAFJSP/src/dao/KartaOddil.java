@@ -5,9 +5,10 @@ public class KartaOddil {
    int idklub;
    int idsezona;
    String oddil;
-   String dir;
+   String dir; 
    String kontakt;
-   String obr;
+   String obr; 
+   String daf;
    
    private int getIdklub() {
 	return idklub;
